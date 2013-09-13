@@ -15,7 +15,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
    version="1.0"
-   sodipodi:docname="git-cheat-sheet-v2-back.svg"
+   sodipodi:docname="git-cheat-sheet.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4">
@@ -143,8 +143,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142137"
-     inkscape:cx="332.78462"
-     inkscape:cy="545.82373"
+     inkscape:cx="883.01121"
+     inkscape:cy="165.83248"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      width="297mm"
@@ -242,7 +242,7 @@
          x="1016.8276"
          y="683.0802"
          id="tspan3511"
-         style="font-size:8px;text-align:end;text-anchor:end">Version 1.0 of Travis Perkins' git cheat sheet, by Nik Silver</tspan><tspan
+         style="font-size:8px;text-align:end;text-anchor:end">Version 1.1 of Travis Perkins' git cheat sheet, by Nik Silver</tspan><tspan
          sodipodi:role="line"
          x="1016.8276"
          y="693.0802"
@@ -1224,7 +1224,7 @@
     <rect
        ry="4.121768"
        rx="3.8580613"
-       y="484.36871"
+       y="496.63745"
        x="833.34021"
        height="109.5352"
        width="170.87868"
@@ -1233,7 +1233,7 @@
     <rect
        ry="4.0081792"
        rx="3.6720195"
-       y="484.35193"
+       y="496.62067"
        x="833.32343"
        height="17.752777"
        width="146.37479"
@@ -1241,54 +1241,54 @@
        style="color:#000000;fill:#c0c0c0;fill-opacity:1;fill-rule:nonzero;stroke:#a0a0a0;stroke-width:0.84960067;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <text
        id="text3790-6"
-       y="497.34644"
+       y="509.61514"
        x="837.79712"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans"
-         y="497.34644"
+         y="509.61514"
          x="837.79712"
          id="tspan3792-6"
          sodipodi:role="line">Detached HEAD state</tspan></text>
     <text
        id="text3794-1"
-       y="519.36023"
+       y="531.62891"
        x="850.61517"
        style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
          style="font-family:Bitstream Vera Sans Mono"
-         y="519.36023"
+         y="531.62891"
          x="850.61517"
          sodipodi:role="line"
          id="tspan3880-5">The only difference here is that you are</tspan><tspan
          id="tspan4003"
          style="font-family:Bitstream Vera Sans Mono"
-         y="529.36023"
+         y="541.62891"
          x="850.61517"
          sodipodi:role="line">not attached to a named branch. You</tspan><tspan
          id="tspan4005"
          style="font-family:Bitstream Vera Sans Mono"
-         y="539.36023"
+         y="551.62891"
          x="850.61517"
          sodipodi:role="line">can do all operations normally, but</tspan><tspan
          id="tspan4007"
          style="font-family:Bitstream Vera Sans Mono"
-         y="549.36023"
+         y="561.62891"
          x="850.61517"
          sodipodi:role="line">when you switch to another branch you</tspan><tspan
          id="tspan4009"
          style="font-family:Bitstream Vera Sans Mono"
-         y="559.36023"
+         y="571.62891"
          x="850.61517"
          sodipodi:role="line">may find it difficult to return here. So</tspan><tspan
          id="tspan4011"
          style="font-family:Bitstream Vera Sans Mono"
-         y="569.36023"
+         y="581.62891"
          x="850.61517"
          sodipodi:role="line">before you switch you may want to</tspan><tspan
          id="tspan4013"
          style="font-family:Bitstream Vera Sans Mono"
-         y="579.36023"
+         y="591.62891"
          x="850.61517"
          sodipodi:role="line">create a new branch or tag at this point.</tspan></text>
     <rect
@@ -2001,14 +2001,14 @@
          sodipodi:role="line"
          id="tspan3558-0">       Get the latest master from the origin</tspan></text>
     <rect
-       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:1.66454184;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:1.69027746;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3501-2-7-6"
-       width="170.09724"
-       height="390.9339"
-       x="833.7309"
-       y="79.892296"
-       rx="3.8404183"
-       ry="4.9035764" />
+       width="170.0715"
+       height="403.17685"
+       x="833.74377"
+       y="79.905167"
+       rx="3.8398373"
+       ry="5.0571427" />
     <rect
        style="color:#000000;fill:#c0c0c0;fill-opacity:1;fill-rule:nonzero;stroke:#a0a0a0;stroke-width:0.84960073;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3503-1-4-1"
